@@ -1,0 +1,13 @@
+C:\Users\User\workspace\ClassesIntro\bin\Debug\netcoreapp3.1\ClassesIntro.exe
+C:\Users\User\workspace\ClassesIntro\bin\Debug\netcoreapp3.1\ClassesIntro.deps.json
+C:\Users\User\workspace\ClassesIntro\bin\Debug\netcoreapp3.1\ClassesIntro.runtimeconfig.json
+C:\Users\User\workspace\ClassesIntro\bin\Debug\netcoreapp3.1\ClassesIntro.runtimeconfig.dev.json
+C:\Users\User\workspace\ClassesIntro\bin\Debug\netcoreapp3.1\ClassesIntro.dll
+C:\Users\User\workspace\ClassesIntro\bin\Debug\netcoreapp3.1\ClassesIntro.pdb
+C:\Users\User\workspace\ClassesIntro\obj\Debug\netcoreapp3.1\ClassesIntro.csprojAssemblyReference.cache
+C:\Users\User\workspace\ClassesIntro\obj\Debug\netcoreapp3.1\ClassesIntro.AssemblyInfoInputs.cache
+C:\Users\User\workspace\ClassesIntro\obj\Debug\netcoreapp3.1\ClassesIntro.AssemblyInfo.cs
+C:\Users\User\workspace\ClassesIntro\obj\Debug\netcoreapp3.1\ClassesIntro.csproj.CoreCompileInputs.cache
+C:\Users\User\workspace\ClassesIntro\obj\Debug\netcoreapp3.1\ClassesIntro.dll
+C:\Users\User\workspace\ClassesIntro\obj\Debug\netcoreapp3.1\ClassesIntro.pdb
+C:\Users\User\workspace\ClassesIntro\obj\Debug\netcoreapp3.1\ClassesIntro.genruntimeconfig.cache
