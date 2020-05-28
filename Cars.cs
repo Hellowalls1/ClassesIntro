@@ -49,12 +49,12 @@ namespace ClassesIntro {
         //Constructor Method
         //give it an accessibility
         //constructor method does not have a return type
-        //the name of the method is the same as the calss
+        //the name of the method is the same as the class
         //this method is what's going to be invoked when calling the class
         //great place to put defaults for values
         //constructors can take parameters
         public Car (int year, int miles) {
-            Year = ;
+            Year = 10;
             _milesAtLastService = 10000;
         }
 

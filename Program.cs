@@ -12,15 +12,6 @@ namespace ClassesIntro {
             adamsCar.Model = "3";
             adamsCar.Year = 2010;
 
-            //one expression 
-            //instance of car class
-            Car drewsCar = new Car () {
-                Make = "Audi",
-                Model = "A6",
-                Color = "Black",
-                Year = 2013
-            };
-
             //everytime you access the description it will get it from the Cars.cs
             Console.WriteLine (adamsCar.Description);
 
